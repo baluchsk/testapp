@@ -183,9 +183,9 @@
     </pluginRepositories>
     
     <scm>
-    	<connection>scm:git:ssh://github.com/baluchsk/somerset.git</connection>
-    	<url>scm:git:ssh://github.com/baluchsk/somerset.git</url>
-    	<developerConnection>scm:git:ssh://github.com/baluchsk/somerset.git</developerConnection>
+    	<connection>scm:git:ssh://github.com/baluchsk/testapp.git</connection>
+    	<url>scm:git:ssh://github.com/baluchsk/testapp.git</url>
+    	<developerConnection>scm:git:ssh://github.com/baluchsk/testapp.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
