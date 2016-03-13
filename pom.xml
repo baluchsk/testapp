@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
 	<artifactId>testapp</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.7-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule testapp Application</name>
 
@@ -186,7 +186,7 @@
     	<connection>scm:git:ssh://github.com/baluchsk/testapp.git</connection>
     	<url>scm:git:ssh://github.com/baluchsk/testapp.git</url>
     	<developerConnection>scm:git:ssh://github.com/baluchsk/testapp.git</developerConnection>
-        <tag>v1.0.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
 	<distributionManagement>
